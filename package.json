@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "canvafy": "^7.2.1",
+    "chalk": "^5.4.1",
+    "croxydb": "^0.0.26",
+    "discord-gamecord": "^4.4.2",
+    "discord.js": "^14.0.1",
+    "fs": "^0.0.1-security"
+  },
+  "name": "oyun-botu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
